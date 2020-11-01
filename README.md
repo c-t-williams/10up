@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 1. Clone the project to your local machine
 2. Go to the project root directory in Terminal (Mac/Linux) or Command (Windows)
 3. Run 'npm i' to install all dependencies
-4. Run 'npm run start' to start the project in development mode
+4. Run 'npm run start' to start the project in development mode (will open in http://localhost:3000/ by default)
 5. Run 'npm run build' to build a production ready assets (which can then be deployed to a web server/cdn)
 
 ## Global Objectives
@@ -75,9 +75,9 @@ Unfortunately, I am unable to distinguish between standard network errors and to
 
 ## Requirements
 
-[*] Application utilizing the provided HTML/CSS and following the specifications.
-[*] No server-side rendering is required, though we’d like the application built in such a way that server side rendering could be added in the future.
-[*] Modern JavaScript best practices.
-[*] No page reloads necessary.
-[*] Built using React.
-[*] Login/logout functionality using JSON Web Token authentication.
+- Application utilizing the provided HTML/CSS and following the specifications.
+- No server-side rendering is required, though we’d like the application built in such a way that server side rendering could be added in the future.
+- Modern JavaScript best practices.
+- No page reloads necessary.
+- Built using React.
+- Login/logout functionality using JSON Web Token authentication.
